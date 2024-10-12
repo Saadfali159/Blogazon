@@ -1,0 +1,60 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "type": "Educative",
+      "Writer": "Ali",
+      "para": "'I dont know what to write here'",
+      "id": "1"
+    },
+    {
+      "title": "'My old website'",
+      "type": "Funny",
+      "Writer": "Saad",
+      "para": "'I again dont know what to write here'",
+      "id": "2"
+    },
+    {
+      "title": "'It is not my website'",
+      "type": "Social Media",
+      "Writer": "Ali",
+      "para": "'But now i know what to write here'",
+      "id": "3"
+    },
+    {
+      "title": "My new website",
+      "type": "Educative",
+      "Writer": "Haiqa",
+      "para": "'I dont know what to write here'",
+      "id": "4"
+    },
+    {
+      "title": "'My old website'",
+      "type": "Funny",
+      "Writer": "Saad",
+      "para": "'I again dont know what to write here'",
+      "id": "5"
+    },
+    {
+      "title": "'It is not my website'",
+      "type": "Social Media",
+      "Writer": "Ali",
+      "para": "'But now i know what to write here'",
+      "id": "6"
+    },
+    {
+      "id": "7a5b",
+      "title": "Cartoons",
+      "Writer": "Ali Hassan",
+      "para": "lorem ipsum...",
+      "type": "Funny"
+    },
+    {
+      "id": "ad8a",
+      "title": "random",
+      "Writer": "Ali Hassan",
+      "para": "mdnas,mdnaas,mdnas,mdnsadbas,mdnas,mdnas,mdnsadbas,mdnas,mdnas,mdn",
+      "type": "Funny"
+    }
+  ]
+}
