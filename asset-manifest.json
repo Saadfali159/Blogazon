@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blogazon/static/css/main.4ab7c8a4.css",
+    "main.js": "/Blogazon/static/js/main.0510db91.js",
+    "index.html": "/Blogazon/index.html",
+    "main.4ab7c8a4.css.map": "/Blogazon/static/css/main.4ab7c8a4.css.map",
+    "main.0510db91.js.map": "/Blogazon/static/js/main.0510db91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab7c8a4.css",
+    "static/js/main.0510db91.js"
+  ]
+}
